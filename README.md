@@ -1,5 +1,6 @@
-# ProjectPPB-Kalkulator
-UAS-Kalkulator
+# ProjectPPB-Calculator
+UAS-Calculator with history 
+Made by : Matthew Raymond Hartono | A11.2021.13275 | 43UG2
 
-# Versi
+# Version
 Android Studio - Dolphin.
